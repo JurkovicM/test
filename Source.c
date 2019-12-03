@@ -1,6 +1,6 @@
 #include<stdio.h>
 //Rovno ramenný trojuhonik
-//Miroslav Jurkoviè
+//Miroslav Jurkoviè ajfkdashfkjshdjfkh asljkdfhkjashkjdshakjlfh kjdsh fk
 int main()
 {
 	
